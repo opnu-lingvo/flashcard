@@ -188,6 +188,42 @@
 
             let controller;
 
+            // Змінні та функція для автоматичного вирівнювання орієнтації зображень (без перевертання)
+            let imageMeshes = [];
+            const candidateAngles = [0, Math.PI / 2, Math.PI, -Math.PI / 2];
+            const candidateUpVectors = [
+                new THREE.Vector3(0, 0, -1),
+                new THREE.Vector3(-1, 0, 0),
+                new THREE.Vector3(0, 0, 1),
+                new THREE.Vector3(1, 0, 0)
+            ];
+            const tempUpVec = new THREE.Vector3();
+
+            function updateImageOrientation(i) {
+                const mesh = imageMeshes[i];
+                if (!mesh || !markerRoots[i]) return;
+
+                const markerQuat = markerRoots[i].quaternion;
+                let currentAngle = mesh.rotation.z;
+                let currentIndex = candidateAngles.indexOf(currentAngle);
+                if (currentIndex === -1) currentIndex = 0;
+
+                tempUpVec.copy(candidateUpVectors[currentIndex]).applyQuaternion(markerQuat);
+                let maxScore = tempUpVec.y;
+                let bestIndex = currentIndex;
+                const HYSTERESIS = 0.15; // Запобігає тремтінню зображення поблизу кута 45 градусів
+
+                for (let k = 0; k < 4; k++) {
+                    tempUpVec.copy(candidateUpVectors[k]).applyQuaternion(markerQuat);
+                    if (tempUpVec.y > maxScore + HYSTERESIS) {
+                        maxScore = tempUpVec.y;
+                        bestIndex = k;
+                    }
+                }
+
+                mesh.rotation.z = candidateAngles[bestIndex];
+            }
+
             // Ініціалізуємо сцену та запускаємо цикл анімації
             initialize();
             animate();
@@ -367,6 +403,7 @@
                                         mesh1.rotation.x = -Math.PI / 2;
                                         // Додаємо площину у контейнер
                                         markerRoots[i].add(mesh1);
+                                        imageMeshes[i] = mesh1;
                                         resolve(imageFiles[i])
                                     });
                                 }).then(image => {
@@ -543,6 +580,13 @@
                     arToolkitContext.update(arToolkitSource.domElement);
                     if (contentInitialized) {
                         const now = performance.now();
+
+                        // Автоматично вирівнюємо орієнтацію зображень так, щоб вони не переверталися
+                        for (let i = 0; i < markerRoots.length; i++) {
+                            if (markerRoots[i] && markerRoots[i].visible && imageMeshes[i]) {
+                                updateImageOrientation(i);
+                            }
+                        }
 
                         // Оновлюємо мітку часу для всіх маркерів, які видимі в поточному кадрі
                         for (let i = 0; i < markerRoots.length; i++) {
