@@ -176,31 +176,55 @@
 
                 // Масив назв файлів .patt. Масив заповнюється в порядку додавання маркерів
                 // якщо замість .patt було додано баркод, на його місце в масив додається порожній рядок
-                const patternNames = ["" ,"" ,"" ,"" , "", "pattern-qr-code.patt"];
+                const patternNames = ["" ,"" ,"" ,"" , "", "" ,"" ,"" ,"" , "", "" ,"", "pattern-qr-code.patt"];
                 // Масив баркодів, заповнюється одночасно з масивом патернів
                 // якщо замість баркоду був доданий .patt, на його місце масив додається -1
-                const patternBarcode = [1 ,2 ,3 ,4 ,5, -1];
+                const patternBarcode = [1 ,2 ,3 , 4 , 5, 6, 7, 8, 9, 10, 11, 12, -1];
                 // Масив типів контенту кожного маркера, заповнюється значеннями: зображення, модель, відео
-                const modes = ["model" ,"image" ,"image" ,"image" ,"image","image"];
+                const modes = ["image" ,"image" ,"image" ,"image" ,"image","image","image" ,"image" ,"image" ,"image" ,"image","image","video"];
                 // Масив файлів моделей, якщо немає моделі буде додано порожній рядок
-                const modelFiles = ["1-butterfly.glb" ,"" ,"" ,"" , "", ""];
+                const modelFiles = ["" ,"" ,"" ,"" , "", "", "" ,"" ,"" ,"" , "", "", "" ];
                 // Масив файлів зображень, якщо немає зображення буде додано також порожній рядок
-                const imageFiles = ["" ,"2-dobrota.jpg" ,"3-love.jpg" ,"4-risk.jpg" ,"5-bajanya.jpg","present.jpg"];
+                const imageFiles = ["Happiness-PT.jpg", "Happiness-UA.jpg", 
+                                    "Excitement-PT.jpg", "Excitement-UA.jpg", 
+                                    "Tenderness-PT.jpg", "Tenderness-UA.jpg", 
+                                    "Fear-PT.jpg", "Fear-UA.jpg", 
+                                    "Anger-PT.jpg", "Anger-UA.jpg", 
+                                    "Sadness-PT.jpg", "Sadness-UA.jpg", ""];
                 // Масив файлів відео, якщо немає відео буде ще один порожній рядок
-                const videoFiles = ["" ,"" ,"" ,"" ,"", ""];
+                const videoFiles = ["" ,"" ,"" ,"" , "", "", "" ,"" ,"" ,"" , "", "", "present.mp4" ];
                 // Масив файлів аудіо, якщо немає аудіо буде так само порожній рядок
-                const audioFiles = ["1-mriya.mp3" ,"2-dobrota.mp3" ,"3-love.mp3" ,"4-risk.mp3" ,"5-bajanya.mp3", "present.mp3"];
+                const audioFiles = ["Happiness-PT.mp3", "Happiness-UA.mp3", 
+                                    "Excitement-PT.mp3", "Excitement-UA.mp3", 
+                                    "Tenderness-PT.mp3", "Tenderness-UA.mp3", 
+                                    "Fear-PT.mp3", "Fear-UA.mp3", 
+                                    "Anger-PT.mp3", "Anger-UA.mp3", 
+                                    "Sadness-PT.mp3", "Sadness-UA.mp3", ""];
                 // Масив опцій повтору аудіо та відео контенту, по дефолту для всіх буде false
-                repeatOptions = [false, false, false, false, false, false];
+                repeatOptions = [false, false, false, false, false, false,false, false, false, false, false, false,false];
   
+                Happiness_pt.mp3 
+                Happiness_ua.mp3 
+                Excitement_pt.mp3 
+                Excitement_ua.mp3 
+                Tenderness_pt.mp3
+                Tenderness_ua.mp3 
+                Fear_pt.mp3 
+                Fear_ua.mp3                 
+                Anger_pt.mp3 
+                Anger_ua.mp3 
+                Sadness_pt.mp3 
+                Sadness_ua.mp3 
+                
+
                 // Створюємо масив для всіх маркерів
                 markerRoots = [];
-                for (let i = 0; i < 6; i++) {
+                for (let i = 0; i < 13; i++) {
                     markerRoots[i] = new THREE.Group();
                 }
   
                 // Проходимо по кожному маркеру з масиву і додаємо його в головний контейнер
-                for (let i = 0; i < 6; i++) {
+                for (let i = 0; i < 13; i++) {
                     mainContainer.add(markerRoots[i]);
 
                     // Якщо поточний маркер – це баркод, створюємо AR контролер під баркод

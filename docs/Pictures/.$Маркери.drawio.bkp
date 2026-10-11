@@ -1,0 +1,422 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.1.1 Chrome/132.0.6834.210 Electron/34.3.3 Safari/537.36" version="26.1.1" pages="30">
+  <diagram name="Situation-1" id="Fc6yc3WdCOgxwwigaSj6">
+    <mxGraphModel dx="808" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lIt4eCK8uMyXsq5xsUIR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZCYTpB97UIJ_uQ7dxQx-1" value="&lt;strong&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Ситуація&lt;/font&gt;&lt;/strong&gt;&lt;div&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;1&lt;/font&gt;&lt;/strong&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="176" y="47" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Situation-2" id="MIoZ-FXUBZKhEPbdeQMr">
+    <mxGraphModel dx="1248" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="6-S_I8FoHZbkMU3IErPr-0" />
+        <mxCell id="6-S_I8FoHZbkMU3IErPr-1" parent="6-S_I8FoHZbkMU3IErPr-0" />
+        <mxCell id="fK6Ed522Y6uJGIoNHa28-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6-S_I8FoHZbkMU3IErPr-1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="6-S_I8FoHZbkMU3IErPr-2" value="&lt;strong&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Ситуація&lt;/font&gt;&lt;/strong&gt;&lt;div&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;2&lt;/font&gt;&lt;/strong&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6-S_I8FoHZbkMU3IErPr-1">
+          <mxGeometry x="177" y="42" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Situation-3" id="Hp4kAZvyowoHRF705Lvu">
+    <mxGraphModel dx="1248" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="tTkVZZukBmo-lsadQ0Pw-0" />
+        <mxCell id="tTkVZZukBmo-lsadQ0Pw-1" parent="tTkVZZukBmo-lsadQ0Pw-0" />
+        <mxCell id="-5glFa1n1PHU8mSWRPLD-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tTkVZZukBmo-lsadQ0Pw-1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="tTkVZZukBmo-lsadQ0Pw-2" value="&lt;strong&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Ситуація&lt;/font&gt;&lt;/strong&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;3&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tTkVZZukBmo-lsadQ0Pw-1">
+          <mxGeometry x="177" y="42" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Situation-4" id="XMzGUajfYJQ_QyNRrF69">
+    <mxGraphModel dx="1248" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="hdA6jAyGHNHrwO-YElvs-0" />
+        <mxCell id="hdA6jAyGHNHrwO-YElvs-1" parent="hdA6jAyGHNHrwO-YElvs-0" />
+        <mxCell id="LaOmUSpSMaA4_2AXN2Qk-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hdA6jAyGHNHrwO-YElvs-1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="hdA6jAyGHNHrwO-YElvs-2" value="&lt;strong&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Ситуація&lt;/font&gt;&lt;/strong&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;4&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hdA6jAyGHNHrwO-YElvs-1">
+          <mxGeometry x="177" y="42" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Situation-5" id="E3CoatJ0IERwetFraDhw">
+    <mxGraphModel dx="1248" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="O3_3Mclgq3xPBObLJ7Ny-0" />
+        <mxCell id="O3_3Mclgq3xPBObLJ7Ny-1" parent="O3_3Mclgq3xPBObLJ7Ny-0" />
+        <mxCell id="9K-kQbBwnrdjhVR94jHs-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O3_3Mclgq3xPBObLJ7Ny-1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="O3_3Mclgq3xPBObLJ7Ny-2" value="&lt;strong&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Ситуація&lt;/font&gt;&lt;/strong&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;5&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="O3_3Mclgq3xPBObLJ7Ny-1">
+          <mxGeometry x="177" y="42" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Task-1" id="_aqZ-xcl4qzjYqaBLOqt">
+    <mxGraphModel dx="1248" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="YewGfu54vcShFEnpBRTm-0" />
+        <mxCell id="YewGfu54vcShFEnpBRTm-1" parent="YewGfu54vcShFEnpBRTm-0" />
+        <mxCell id="YewGfu54vcShFEnpBRTm-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YewGfu54vcShFEnpBRTm-1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="YewGfu54vcShFEnpBRTm-3" value="&lt;span style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;Завдання&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;1&lt;/font&gt;&lt;/strong&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YewGfu54vcShFEnpBRTm-1">
+          <mxGeometry x="175" y="47" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Task-2" id="FR85ap-734LFLYeqrWHx">
+    <mxGraphModel dx="1248" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="_uqgO62FYdamjx694GQ--0" />
+        <mxCell id="_uqgO62FYdamjx694GQ--1" parent="_uqgO62FYdamjx694GQ--0" />
+        <mxCell id="_uqgO62FYdamjx694GQ--2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_uqgO62FYdamjx694GQ--1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_uqgO62FYdamjx694GQ--3" value="&lt;span style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;Завдання&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;2&lt;/font&gt;&lt;/strong&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_uqgO62FYdamjx694GQ--1">
+          <mxGeometry x="175" y="47" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Task-3" id="gQO1V6cBiEvmSh_QHvpI">
+    <mxGraphModel dx="1248" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="gV7Q46JTmYzm6mB5My8m-0" />
+        <mxCell id="gV7Q46JTmYzm6mB5My8m-1" parent="gV7Q46JTmYzm6mB5My8m-0" />
+        <mxCell id="gV7Q46JTmYzm6mB5My8m-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gV7Q46JTmYzm6mB5My8m-1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="gV7Q46JTmYzm6mB5My8m-3" value="&lt;span style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;Завдання&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;3&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gV7Q46JTmYzm6mB5My8m-1">
+          <mxGeometry x="175" y="47" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Task-4" id="iyKdqUwbLjqXtyn8h3zy">
+    <mxGraphModel dx="1248" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="EDm0fYaMsRb_ppb9kGGX-0" />
+        <mxCell id="EDm0fYaMsRb_ppb9kGGX-1" parent="EDm0fYaMsRb_ppb9kGGX-0" />
+        <mxCell id="EDm0fYaMsRb_ppb9kGGX-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EDm0fYaMsRb_ppb9kGGX-1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="EDm0fYaMsRb_ppb9kGGX-3" value="&lt;span style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;Завдання&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;4&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EDm0fYaMsRb_ppb9kGGX-1">
+          <mxGeometry x="175" y="47" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Task-5" id="cE3WsTowPE7_8toqkLX_">
+    <mxGraphModel dx="1248" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="bWUPTsz2HNsjtPYjTVuO-0" />
+        <mxCell id="bWUPTsz2HNsjtPYjTVuO-1" parent="bWUPTsz2HNsjtPYjTVuO-0" />
+        <mxCell id="bWUPTsz2HNsjtPYjTVuO-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bWUPTsz2HNsjtPYjTVuO-1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="bWUPTsz2HNsjtPYjTVuO-3" value="&lt;span style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;Завдання&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;5&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bWUPTsz2HNsjtPYjTVuO-1">
+          <mxGeometry x="175" y="47" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Action-11" id="emUfO7Xz0AQa8AAmdfXw">
+    <mxGraphModel dx="1264" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="RL3h9Rjs0aKPGxlJGikt-0" />
+        <mxCell id="RL3h9Rjs0aKPGxlJGikt-1" parent="RL3h9Rjs0aKPGxlJGikt-0" />
+        <mxCell id="RL3h9Rjs0aKPGxlJGikt-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="RL3h9Rjs0aKPGxlJGikt-1" vertex="1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="RL3h9Rjs0aKPGxlJGikt-3" value="&lt;strong&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Варіант&lt;/font&gt;&lt;/strong&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;11&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="RL3h9Rjs0aKPGxlJGikt-1" vertex="1">
+          <mxGeometry x="177" y="42" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Action-12" id="Cix2_FuFv-VAvvhPzq1-">
+    <mxGraphModel dx="1264" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="dy9cCvTSC0aakPl4qLrS-0" />
+        <mxCell id="dy9cCvTSC0aakPl4qLrS-1" parent="dy9cCvTSC0aakPl4qLrS-0" />
+        <mxCell id="dy9cCvTSC0aakPl4qLrS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="dy9cCvTSC0aakPl4qLrS-1" vertex="1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dy9cCvTSC0aakPl4qLrS-3" value="&lt;strong&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Варіант&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;12&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="dy9cCvTSC0aakPl4qLrS-1" vertex="1">
+          <mxGeometry x="177" y="42" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Action-13" id="8CcMx-toTn211gTG4wT_">
+    <mxGraphModel dx="1264" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="igHvSMIQFFMtnFTgM3Wo-0" />
+        <mxCell id="igHvSMIQFFMtnFTgM3Wo-1" parent="igHvSMIQFFMtnFTgM3Wo-0" />
+        <mxCell id="igHvSMIQFFMtnFTgM3Wo-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="igHvSMIQFFMtnFTgM3Wo-1" vertex="1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="igHvSMIQFFMtnFTgM3Wo-3" value="&lt;strong&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Варіант&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;13&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="igHvSMIQFFMtnFTgM3Wo-1" vertex="1">
+          <mxGeometry x="177" y="42" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Action-21" id="_7D75KOCCUBGddObMK4-">
+    <mxGraphModel dx="1264" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="ur21f8HQSXy3aCE_WTGk-0" />
+        <mxCell id="ur21f8HQSXy3aCE_WTGk-1" parent="ur21f8HQSXy3aCE_WTGk-0" />
+        <mxCell id="ur21f8HQSXy3aCE_WTGk-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="ur21f8HQSXy3aCE_WTGk-1" vertex="1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ur21f8HQSXy3aCE_WTGk-3" value="&lt;strong&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Варіант&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;21&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ur21f8HQSXy3aCE_WTGk-1" vertex="1">
+          <mxGeometry x="177" y="42" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Action-22" id="hTwwxRNlfb5C14Sj2vin">
+    <mxGraphModel dx="1264" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="wxs4Xb1ucY9wj6vo7dwr-0" />
+        <mxCell id="wxs4Xb1ucY9wj6vo7dwr-1" parent="wxs4Xb1ucY9wj6vo7dwr-0" />
+        <mxCell id="wxs4Xb1ucY9wj6vo7dwr-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="wxs4Xb1ucY9wj6vo7dwr-1" vertex="1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="wxs4Xb1ucY9wj6vo7dwr-3" value="&lt;strong&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Варіант&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;22&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="wxs4Xb1ucY9wj6vo7dwr-1" vertex="1">
+          <mxGeometry x="177" y="42" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Action-23" id="ISYdEJ1QNQxsvG1mm3kb">
+    <mxGraphModel dx="1264" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="AuRcT8Tz8eKZqiwxpjby-0" />
+        <mxCell id="AuRcT8Tz8eKZqiwxpjby-1" parent="AuRcT8Tz8eKZqiwxpjby-0" />
+        <mxCell id="AuRcT8Tz8eKZqiwxpjby-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="AuRcT8Tz8eKZqiwxpjby-1" vertex="1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRcT8Tz8eKZqiwxpjby-3" value="&lt;strong&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Варіант&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;23&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="AuRcT8Tz8eKZqiwxpjby-1" vertex="1">
+          <mxGeometry x="177" y="42" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Action-31" id="kb9D5ZoeRmF5gfGyrbpp">
+    <mxGraphModel dx="1264" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="5b8WEkK-Bz_9-_DWrDUj-0" />
+        <mxCell id="5b8WEkK-Bz_9-_DWrDUj-1" parent="5b8WEkK-Bz_9-_DWrDUj-0" />
+        <mxCell id="5b8WEkK-Bz_9-_DWrDUj-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="5b8WEkK-Bz_9-_DWrDUj-1" vertex="1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="5b8WEkK-Bz_9-_DWrDUj-3" value="&lt;strong&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Варіант&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;31&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5b8WEkK-Bz_9-_DWrDUj-1" vertex="1">
+          <mxGeometry x="177" y="42" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Action-32" id="Tl829wQcD0pgTeZ77rSC">
+    <mxGraphModel dx="1264" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="ZyB9wNaF5a40TwyH-3A7-0" />
+        <mxCell id="ZyB9wNaF5a40TwyH-3A7-1" parent="ZyB9wNaF5a40TwyH-3A7-0" />
+        <mxCell id="ZyB9wNaF5a40TwyH-3A7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="ZyB9wNaF5a40TwyH-3A7-1" vertex="1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyB9wNaF5a40TwyH-3A7-3" value="&lt;strong&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Варіант&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;32&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ZyB9wNaF5a40TwyH-3A7-1" vertex="1">
+          <mxGeometry x="177" y="42" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Action-33" id="mKG7VoWPpsr0CSw-Ml97">
+    <mxGraphModel dx="1264" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="fPeDs-vKy45CWc5Teho3-0" />
+        <mxCell id="fPeDs-vKy45CWc5Teho3-1" parent="fPeDs-vKy45CWc5Teho3-0" />
+        <mxCell id="fPeDs-vKy45CWc5Teho3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="fPeDs-vKy45CWc5Teho3-1" vertex="1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="fPeDs-vKy45CWc5Teho3-3" value="&lt;strong&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Варіант&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;33&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="fPeDs-vKy45CWc5Teho3-1" vertex="1">
+          <mxGeometry x="177" y="42" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Action-41" id="uJCPb6YQ4pNIUnAMuXiW">
+    <mxGraphModel dx="1264" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="R5s5XrK56pOd1Uxv7Ag9-0" />
+        <mxCell id="R5s5XrK56pOd1Uxv7Ag9-1" parent="R5s5XrK56pOd1Uxv7Ag9-0" />
+        <mxCell id="R5s5XrK56pOd1Uxv7Ag9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="R5s5XrK56pOd1Uxv7Ag9-1" vertex="1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="R5s5XrK56pOd1Uxv7Ag9-3" value="&lt;strong&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Варіант&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;41&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="R5s5XrK56pOd1Uxv7Ag9-1" vertex="1">
+          <mxGeometry x="177" y="42" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Action-42" id="lWLhgi4edN_uK_bVWwYU">
+    <mxGraphModel dx="1264" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="Md6qTG3uUdwmLyijNtXS-0" />
+        <mxCell id="Md6qTG3uUdwmLyijNtXS-1" parent="Md6qTG3uUdwmLyijNtXS-0" />
+        <mxCell id="Md6qTG3uUdwmLyijNtXS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="Md6qTG3uUdwmLyijNtXS-1" vertex="1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Md6qTG3uUdwmLyijNtXS-3" value="&lt;strong&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Варіант&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;42&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Md6qTG3uUdwmLyijNtXS-1" vertex="1">
+          <mxGeometry x="177" y="42" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Action-43" id="JIGHDQgf90JGKf_LRj6P">
+    <mxGraphModel dx="1264" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="lr1nPgcPBc6P49NHwipw-0" />
+        <mxCell id="lr1nPgcPBc6P49NHwipw-1" parent="lr1nPgcPBc6P49NHwipw-0" />
+        <mxCell id="lr1nPgcPBc6P49NHwipw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="lr1nPgcPBc6P49NHwipw-1" vertex="1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="lr1nPgcPBc6P49NHwipw-3" value="&lt;strong&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Варіант&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;43&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="lr1nPgcPBc6P49NHwipw-1" vertex="1">
+          <mxGeometry x="177" y="42" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Action-51" id="F0MpnWNaD5NsWorv6D-D">
+    <mxGraphModel dx="1264" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="qz9dAdy6lCCT4TE9tIYB-0" />
+        <mxCell id="qz9dAdy6lCCT4TE9tIYB-1" parent="qz9dAdy6lCCT4TE9tIYB-0" />
+        <mxCell id="qz9dAdy6lCCT4TE9tIYB-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="qz9dAdy6lCCT4TE9tIYB-1" vertex="1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="qz9dAdy6lCCT4TE9tIYB-3" value="&lt;strong&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Варіант&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;51&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="qz9dAdy6lCCT4TE9tIYB-1" vertex="1">
+          <mxGeometry x="177" y="42" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Action-52" id="yemCNQzUYtNny-cYFDzE">
+    <mxGraphModel dx="1264" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="SjcpdXyapSBo0GK3EeSz-0" />
+        <mxCell id="SjcpdXyapSBo0GK3EeSz-1" parent="SjcpdXyapSBo0GK3EeSz-0" />
+        <mxCell id="SjcpdXyapSBo0GK3EeSz-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="SjcpdXyapSBo0GK3EeSz-1" vertex="1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="SjcpdXyapSBo0GK3EeSz-3" value="&lt;strong&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Варіант&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;52&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="SjcpdXyapSBo0GK3EeSz-1" vertex="1">
+          <mxGeometry x="177" y="42" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Action-53" id="wASGa870cDxwCcmo4lp8">
+    <mxGraphModel dx="1264" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="auXJV8MkMU54YRBnz61n-0" />
+        <mxCell id="auXJV8MkMU54YRBnz61n-1" parent="auXJV8MkMU54YRBnz61n-0" />
+        <mxCell id="auXJV8MkMU54YRBnz61n-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="auXJV8MkMU54YRBnz61n-1" vertex="1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="auXJV8MkMU54YRBnz61n-3" value="&lt;strong&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Варіант&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;53&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="auXJV8MkMU54YRBnz61n-1" vertex="1">
+          <mxGeometry x="177" y="42" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Answer-1" id="e_BiMSBtUuwU5JgUFAcu">
+    <mxGraphModel dx="1264" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="jQQmuzNtAGzl2VhIsfMM-0" />
+        <mxCell id="jQQmuzNtAGzl2VhIsfMM-1" parent="jQQmuzNtAGzl2VhIsfMM-0" />
+        <mxCell id="jQQmuzNtAGzl2VhIsfMM-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="jQQmuzNtAGzl2VhIsfMM-1" vertex="1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jQQmuzNtAGzl2VhIsfMM-3" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;Відповідь&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;1&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jQQmuzNtAGzl2VhIsfMM-1" vertex="1">
+          <mxGeometry x="176" y="44" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Answer-2" id="fmmLj8MrIb8g-Rk_7LAB">
+    <mxGraphModel dx="1248" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="y_hFfgYwh6OcdT0Ao4yg-0" />
+        <mxCell id="y_hFfgYwh6OcdT0Ao4yg-1" parent="y_hFfgYwh6OcdT0Ao4yg-0" />
+        <mxCell id="y_hFfgYwh6OcdT0Ao4yg-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="y_hFfgYwh6OcdT0Ao4yg-1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="y_hFfgYwh6OcdT0Ao4yg-3" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;Відповідь&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;2&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="y_hFfgYwh6OcdT0Ao4yg-1">
+          <mxGeometry x="176" y="44" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Answer-3" id="yBICymPHMk70Vwt9qCKP">
+    <mxGraphModel dx="1248" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="v5Wd9aA6KABvyKE22cvX-0" />
+        <mxCell id="v5Wd9aA6KABvyKE22cvX-1" parent="v5Wd9aA6KABvyKE22cvX-0" />
+        <mxCell id="v5Wd9aA6KABvyKE22cvX-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="v5Wd9aA6KABvyKE22cvX-1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="v5Wd9aA6KABvyKE22cvX-3" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;Відповідь&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;3&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="v5Wd9aA6KABvyKE22cvX-1">
+          <mxGeometry x="176" y="44" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Answer-4" id="E4J045Xr2zUt3GUMQrVi">
+    <mxGraphModel dx="1248" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="DJMZAMb7J33H8nHXBFRB-0" />
+        <mxCell id="DJMZAMb7J33H8nHXBFRB-1" parent="DJMZAMb7J33H8nHXBFRB-0" />
+        <mxCell id="DJMZAMb7J33H8nHXBFRB-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DJMZAMb7J33H8nHXBFRB-1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DJMZAMb7J33H8nHXBFRB-3" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;Відповідь&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;4&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DJMZAMb7J33H8nHXBFRB-1">
+          <mxGeometry x="176" y="44" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Answer-5" id="WonuybvOiqv3P2_pd-wT">
+    <mxGraphModel dx="1248" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="170" pageHeight="170" math="0" shadow="0">
+      <root>
+        <mxCell id="ayqyB__t-1d7ogfxk3sn-0" />
+        <mxCell id="ayqyB__t-1d7ogfxk3sn-1" parent="ayqyB__t-1d7ogfxk3sn-0" />
+        <mxCell id="ayqyB__t-1d7ogfxk3sn-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ayqyB__t-1d7ogfxk3sn-1">
+          <mxGeometry x="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ayqyB__t-1d7ogfxk3sn-3" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;Відповідь&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;5&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ayqyB__t-1d7ogfxk3sn-1">
+          <mxGeometry x="176" y="44" width="160" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
