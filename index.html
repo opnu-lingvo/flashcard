@@ -25,7 +25,7 @@
             left: 50%;
             transform: translateX(-50%);
             z-index: 1000;
-            display: flex;
+            display: none;
             gap: 15px;
             pointer-events: all;
             user-select: none;
@@ -122,6 +122,7 @@
     <script>
         const access = document.getElementById('access');
         const loader = document.getElementById('loader');
+        const controlsPanel = document.getElementById('controls-panel');
         const restartBtn = document.getElementById('restart-btn');
         const finishBtn = document.getElementById('finish-btn');
 
@@ -613,6 +614,7 @@
             initiateExperience();
             document.body.removeChild(access);
             loader.style.display = 'block';
+            controlsPanel.style.display = 'flex';
         });
     </script>
 
